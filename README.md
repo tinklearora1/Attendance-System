@@ -12,4 +12,8 @@ it will create .csv file for every subject you enter and seperate every .csv fil
 You can view the attendance after clicking View Attendance button. It will show record in tabular format.
 Screenshots
 ![Python 3 10 12-04-2023 23_58_18](https://github.com/tinklearora1/Attendance-System/assets/89792381/ef7c1d5f-344b-4ef4-9a9d-b764adb84af3)
+![Python 3 10 13-04-2023 00_22_53](https://github.com/tinklearora1/Attendance-System/assets/89792381/47b0c142-5bd1-42f8-81c3-237cd7b5258e)
+![7](https://github.com/tinklearora1/Attendance-System/assets/89792381/4b8e8ae8-8372-423d-baaa-fe24b6660ca3)
+
+
 
